@@ -28,3 +28,9 @@ OR
 - If a newer version is available the script looks up the downloadlink
 - Downloads newest version with wget and extracts the .bzip2 file
 - Stops server, backs up the db, copies updated files and restarts server
+
+# FAQ
+- Aren't there better ones? 
+I hope there are :D
+- Why would you write it yourself then?
+After finding quite a few scripts, that either contain hidden features, cost money or have limited functionality in the free version I decided to write one on my own and share it
