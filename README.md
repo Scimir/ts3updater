@@ -12,6 +12,7 @@ Only updates to newest stable TS3 version!
 # How to use
 - Copy the folder containing the script into your teamspeak server directory
 - Adjust paths in the config file
+- Use chmod +x to make .sh files executable
 - Run start_ts3update.sh 
 OR
 - Create a cronjob with crontab -e
