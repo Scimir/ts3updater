@@ -16,6 +16,7 @@ Only updates to newest stable TS3 version!
 - Run start_ts3update.sh 
 OR
 - Create a cronjob with crontab -e
+- I recommend switching to the directory first: cd /(path to script/ && ./start_ts3update.sh
 
 # Before you use this
 - Never use root for this kind of scripts
